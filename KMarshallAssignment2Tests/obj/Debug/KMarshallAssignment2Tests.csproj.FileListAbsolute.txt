@@ -1,0 +1,16 @@
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\obj\Debug\KMarshallAssignment2Tests.csprojAssemblyReference.cache
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\nunit.engine.dll
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\KMarshallAssignment2Tests.dll
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\KMarshallAssignment2Tests.pdb
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\KMAssignment2.exe
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\KMAssignment2.pdb
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\KMAssignment2.exe.config
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\obj\Debug\KMarshallAssignment2Tests.csproj.CopyComplete
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\obj\Debug\KMarshallAssignment2Tests.dll
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMarshallAssignment2Tests\obj\Debug\KMarshallAssignment2Tests.pdb
