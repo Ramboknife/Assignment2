@@ -1,0 +1,6 @@
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMAssignment2\bin\Debug\KMAssignment2.exe.config
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMAssignment2\bin\Debug\KMAssignment2.exe
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMAssignment2\bin\Debug\KMAssignment2.pdb
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMAssignment2\obj\Debug\KMAssignment2.csprojAssemblyReference.cache
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMAssignment2\obj\Debug\KMAssignment2.exe
+C:\Users\Kev\Desktop\KMAssignment2\KMAssignment2\KMAssignment2\obj\Debug\KMAssignment2.pdb

@@ -54,7 +54,7 @@ namespace KMAssignment2
 
             else if (numberOne != numberTwo || numberTwo != numberThree || numberOne != numberThree)
             {
-                Console.WriteLine($"Your have made an Scalene Triangle!");
+                Console.WriteLine($"Your have made a Scalene Triangle!");
             }
 
             string tryAgain = "Please try again!";
