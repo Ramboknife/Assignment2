@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KMAssignment2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,8 +28,8 @@ namespace KMAssignment2
         static void Main(string[] args)
         {
 
-            // the circle object
-            TriangleAnalyzer triangle = new TriangleAnalyzer();
+            // the triangle object
+            TriangleSolver triangle = new TriangleSolver();
 
 
             //after we have our starting radius
@@ -54,12 +55,6 @@ namespace KMAssignment2
                     userChoice = Console.ReadLine();
                 }
 
-
-                //start building our triangle numbers
-                int numberOne = 0;
-                int numberTwo = 0;
-                int numberThree = 0;
-
                 if (userChoice[0] == '1')
                 {
 
@@ -67,51 +62,54 @@ namespace KMAssignment2
                 Start:
                     Console.Write("Please enter the first number: ");
                     string input = Console.ReadLine();
-                    try
-                    {
-                        int result = Int32.Parse(input);
-                        numberOne = (result);
-                        triangle.SetNumberOne(result);
 
-                    }
-                    catch (FormatException)
+                    int a;
+                    if (!int.TryParse(input, out a))
                     {
                         Console.WriteLine($"Unable to parse '{input}', please try again.");
                         goto Start;
                     }
+                    else
+                    {
+
+                        triangle.SetNumberOne(a);
+                        goto StartTwo;
+                    }
+
 
                 //number 2
                 StartTwo:
                     Console.Write("Please enter the second number: ");
                     string inputTwo = Console.ReadLine();
-                    try
-                    {
-                        int result = Int32.Parse(inputTwo);
-                        numberTwo = (result);
-                        triangle.SetNumberTwo(result);
 
-                    }
-                    catch (FormatException)
+                    int b;
+                    if (!int.TryParse(inputTwo, out b))
                     {
                         Console.WriteLine($"Unable to parse '{inputTwo}', please try again.");
                         goto StartTwo;
+                    }
+                    else
+                    {
+
+                        triangle.SetNumberTwo(b);
+                        goto StartThree;
                     }
 
                 //number 3
                 StartThree:
                     Console.Write("Please enter the third number: ");
                     string inputThree = Console.ReadLine();
-                    try
-                    {
-                        int result = Int32.Parse(inputThree);
-                        numberThree = (result);
-                        triangle.SetNumberThree(result);
 
-                    }
-                    catch (FormatException)
+                    int c;
+                    if (!int.TryParse(inputThree, out c))
                     {
                         Console.WriteLine($"Unable to parse '{inputThree}', please try again.");
                         goto StartThree;
+                    }
+                    else
+                    {
+
+                        triangle.SetNumberThree(c);
                     }
 
                     //call our Anaylize method to display triangle information

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace KMAssignment2
 {
-    public class TriangleAnalyzer
+    public class TriangleSolver
     {
         private int numberOne = 1;
         private int numberTwo = 1;
         private int numberThree = 1;
 
-        public TriangleAnalyzer()
+        public TriangleSolver()
         {
 
         }
